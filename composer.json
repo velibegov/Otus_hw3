@@ -1,0 +1,9 @@
+{
+"name": "rvelibegov/otus_hw3",
+
+"autoload": {
+    "psr-4": {
+      "Example\\": "src"
+    }
+  }
+}
